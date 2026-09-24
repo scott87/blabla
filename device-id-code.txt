@@ -1,0 +1,85 @@
+﻿
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15013:c=function(e,t){return 
+e.toLocaleLowerCase()===t.toLowerCase()?l.HUB_SSID_NAME_DENIED:e.length<1?l.MINIMUM_CHARACTER_RE
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15014:QUIRED:e.length>32?l.MAXIMUM_CHARACTER_EXCEDED:n.test(e)?l.NOT
+_ALLOWED_DIRECT_AT_FIRST:r.test(e)?l.SHOULD_NOT_CONTAINS_
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15015:SPACE_AT_START:a.test(e)?l.SHOULD_NOT_CONTAINS_SPACE_AT_END:o.
+test(e)?l.SSID_NAME_DENIED:i.includes(e.charAt(0))?l.NOT_
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15016:ALLOWED_FIRST_CHARACTER:s.test(e)?"VALIDATION_OK":l.NON_ASCII_
+CHARACTER},d=function(e){return e in 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15017:l?"INVALID":"VALID"},f=function(e,t){var n=u;return 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15018:n.errorMsg=c(e,t),n.type=d(n.errorMsg),n};t.default=f},functio
+n(e,t,n){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15019:r=n(3);Object.defineProperty(t,"__esModule",{value:!0}),t.defa
+ult=void 0;var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15020:a=r(n(78)),o=r(n(789)),i=r(n(144)),s=n(249),l=r(n(88)),u={init
+iateApplication:function(e){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15021:t=e.storage,n=e.deviceResourceInfo;return 
+console.log("".concat((new Date).getTime(),":: Initialising common 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15022:scripts")),(0,s.setDeviceResourceInfoImpl)(n),c(t).then((funct
+ion(){return console.log("".concat((new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15023:Date).getTime(),": initialising the 
+deviceId")),f()})).then((function(){return console.log("".concat((new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15024:Date).getTime(),": initialising the 
+sessionId")),p()})).then((function(){return console.log("".concat((new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15025:Date).getTime(),": initialising the 
+loggers")),d()}))}};t.default=u;var c=function(e){return 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15026:i.default.configure(e)},d=function(){return 
+o.default.initialiseLogger()},f=function(){return 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15027:i.default.getItem(i.default.NAME.DEVICE_ID).then((function(e){
+if(null===e||void 0===e){var t=(0,a.default)();return 
+> C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15028:console.log("".concat((new Date).getTime(),": DeviceId not 
+found on LocalStorage.. creating a new value - 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15029:").concat(t)),l.default.change.deviceId(t),i.default.setItem(i
+.default.NAME.DEVICE_ID,t)}return 
+> C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15030:console.log("".concat((new Date).getTime(),": DeviceId found 
+on localstorage - 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15031:").concat(e)),l.default.change.deviceId(e),Promise.resolve()})
+)},p=function(){var e=(0,a.default)();return 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15032:console.log("".concat((new Date).getTime(),": created new 
+session = 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15033:").concat(e)),i.default.setItem(i.default.NAME.SESSION_ID,e)}}
+,function(e,t,n){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15034:r=n(3);Object.defineProperty(t,"__esModule",{value:!0}),t.defa
+ult=void 0;var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15035:a=r(n(8)),o=r(n(33)),i=r(n(48)),s=r(n(790)),l=r(n(791)),u=r(n(
+214)),c=r(n(248)),d=r(n(119));function f(e,t){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15036:n=Object.keys(e);if(Object.getOwnPropertySymbols){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15037:r=Object.getOwnPropertySymbols(e);t&&(r=r.filter((function(t){
+return 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15038:Object.getOwnPropertyDescriptor(e,t).enumerable}))),n.push.app
+ly(n,r)}return n}var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15039:p={initialiseLogger:function(){return new 
+Promise((function(e){var t=new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15040:s.default(l.default);o.default.setMessageLookUpFunction(t.getM
+essageLookUpFunction());var n=i.default.getConfig();o.def
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15041:ault.setAssertionsThrowError(n.LOGGING.ASSERTIONS.throw_error)
+,o.default.setFilters(n.LOGGING.FILTERS);var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15042:r=n.LOGGING.TARGETS,p=0;r.forEach((function(t){var 
+n=null;switch(t.type){case"CONSOLE":n=new u.default(new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15043:d.default(t.severity));break;case"MIS":n=new c.default(new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15044:d.default(t.severity),t.uri)}n&&n.applySetup(function(e){for(v
+ar t=1;t<arguments.length;t++){var n=null!=arguments[t]?a
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15045:rguments[t]:{};t%2?f(Object(n),!0).forEach((function(t){(0,a.d
+efault)(e,t,n[t])})):Object.getOwnPropertyDescriptors?Obj
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15046:ect.defineProperties(e,Object.getOwnPropertyDescriptors(n)):f(
+Object(n)).forEach((function(t){Object.defineProperty(e,t
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15047:,Object.getOwnPropertyDescriptor(n,t))}))}return 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15048:e}({},t.setup)).then((function(){p+=1,o.default.addTarget(n),p
+===r.length&&(console.log("initialiseLogger: Logging 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15049:target setup 
+complete"),e())}))}))}))}};t.default=p},function(e,t,n){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15050:r=n(3);Object.defineProperty(t,"__esModule",{value:!0}),t.defa
+ult=void 0;var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15051:a=r(n(6)),o=r(n(7)),i=r(n(139)),s=function(){function 
+e(t){(0,a.default)(this,e),this._messages={},this.addMessages(t)}
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15052:return(0,o.default)(e,[{key:"getDefinition4Message",value:func
+tion(e){return"string"===typeof 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15053:e&&this._messages[e]||null}},{key:"addMessages",value:function
+(e){var 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15054:t=this;Object.keys(e.messages).forEach((function(n){t._message
+s[n]=new 
+  C:\Users\Admin\Documents\bl\main-mqtt-search.txt:15055:i.default(n,e.messages[n])}))}},{key:"getMessageLookUpFunction
+",value:function(){return this.getDefinition4Message.bind
+
+
