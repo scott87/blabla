@@ -1,0 +1,8286 @@
+Promise {<pending>}
+[[Prototype]]
+: 
+Promise
+catch
+: 
+ƒ catch()
+length
+: 
+1
+name
+: 
+"catch"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+length
+: 
+1
+name
+: 
+"bind"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+length
+: 
+2
+name
+: 
+"apply"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+length
+: 
+1
+name
+: 
+"bind"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[0]
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+No properties
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+[[Prototype]]
+: 
+Object
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+constructor
+: 
+ƒ Promise()
+all
+: 
+ƒ all()
+allSettled
+: 
+ƒ allSettled()
+any
+: 
+ƒ any()
+length
+: 
+1
+name
+: 
+"Promise"
+prototype
+: 
+Promise {Symbol(Symbol.toStringTag): 'Promise', then: ƒ, catch: ƒ, finally: ƒ}
+race
+: 
+ƒ race()
+reject
+: 
+ƒ reject()
+resolve
+: 
+ƒ resolve()
+try
+: 
+ƒ try()
+withResolvers
+: 
+ƒ withResolvers()
+Symbol(Symbol.species)
+: 
+ƒ Promise()
+Symbol(Symbol.species)
+: 
+ƒ Promise()
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[0]
+finally
+: 
+ƒ finally()
+length
+: 
+1
+name
+: 
+"finally"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[0]
+then
+: 
+ƒ then()
+length
+: 
+2
+name
+: 
+"then"
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[0]
+Symbol(Symbol.toStringTag)
+: 
+"Promise"
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+(...)
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+[[PromiseState]]
+: 
+"fulfilled"
+[[PromiseResult]]
+: 
+undefined
